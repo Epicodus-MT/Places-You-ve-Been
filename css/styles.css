@@ -1,0 +1,15 @@
+.city-country {
+  color: blue;
+  cursor: pointer;
+}
+
+#location-list li:hover {
+  text-decoration: underline;
+}
+
+#landmarks2-input {
+  display: none;
+}
+.location-info {
+  display: none;
+}
